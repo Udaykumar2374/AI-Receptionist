@@ -175,7 +175,7 @@ docker compose up -d --build
 - Use RDS Postgres, ElastiCache Redis, S3 for blobs
 - Add **Twilio signature verification** on webhooks
 - Store secrets in **AWS Secrets Manager** or env vars
-- Add observability: metrics, logs, traces, alerts
+- Add observability: metrics, logs, alerts
 
 ---
 
