@@ -56,7 +56,7 @@ def make_booking(call_id, slots: dict):
         except Exception:
             pass
 
-    # Email (console backend prints to logs for free)
+    # Email(console backend prints to logs for free)
     if getattr(settings, "NOTIFY_EMAIL", None):
         send_mail(
             subject="New Booking Confirmed",
