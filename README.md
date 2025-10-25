@@ -179,7 +179,4 @@ docker compose up -d --build
 
 ---
 
-## License
-
-**MIT** (or choose another)
 
