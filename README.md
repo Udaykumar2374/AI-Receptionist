@@ -54,7 +54,7 @@ Visit:
 
 ---
 
-## 🌐 Exposing Locally to Twilio (Dev)
+## 🌐 Exposing Locally to Twilio
 
 Twilio needs to reach your local server. Use a tunnel:
 
